@@ -1,0 +1,21 @@
+# Editor / temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Runtime junk
+*.log
+*.pid
+
+# Secrets / local overrides
+.env
+.env.*
+*.pem
+*.key
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
