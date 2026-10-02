@@ -1,4 +1,26 @@
-# Post-Apollo Sway Configuration
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# 🖳 POST-APOLLO // SWAY CONFIG
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** desktop compositor/session configuration
+
+> **Live Sway/SwayFX session configuration for the Post-Apollo desktop.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // RUNTIME LAYOUT
+
+The live `config` file stays where Sway expects it. Meta Apollo rooms provide documentation and semantic organization without relocating the runtime configuration.
+
+---
 
 Live Sway/SwayFX configuration for the Post-Apollo desktop.
 
