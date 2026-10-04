@@ -4,9 +4,13 @@
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+![SwayFX // Post-Apollo Config](./BUILD/assets/design/sway-config-banner.svg)
+
 > **STATE //** active \~\~ **VIEW //** desktop compositor/session configuration
 
-> **Live Sway/SwayFX session configuration for the Post-Apollo desktop.**
+The desktop behavior and session layer of the Post-Apollo Family — enhancing the relationship between operator, input, applications, workspaces, displays, and environment, turning compositor capabilities into a lived set of rules for how the desktop launches, moves, focuses, arranges, and responds during everyday use.
+
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
 
 ### 🧭 MAP // REPOSITORY
 
