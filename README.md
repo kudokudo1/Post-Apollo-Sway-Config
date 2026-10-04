@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# 🖳 POST-APOLLO // SWAY CONFIG
+# 🖳 SWAYFX // POST-APOLLO CONFIG
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
