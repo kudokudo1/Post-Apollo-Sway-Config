@@ -40,6 +40,12 @@ The running compositor is the custom SwayFX build located at:
 The compositor source itself is maintained separately in the animate-swayfx
 repository.
 
+## Upstream provenance
+
+The live `config` began from Sway's default `config.in` template and has been extensively modified for the Post-Apollo desktop and SwayFX behavior.
+
+See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for the inherited-template boundary and upstream MIT attribution.
+
 ## Purpose
 
 This repository preserves the known-working desktop configuration including:
