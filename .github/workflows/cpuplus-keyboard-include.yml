@@ -1,0 +1,20 @@
+name: Sway Config / CPU++ keyboard startup include
+
+on:
+  pull_request:
+    paths:
+      - "config"
+      - "scripts/verify_keyboard_startup_include.py"
+      - ".github/workflows/cpuplus-keyboard-include.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  include-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify single optional keyboard fragment include
+        run: python3 scripts/verify_keyboard_startup_include.py

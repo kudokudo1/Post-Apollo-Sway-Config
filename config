@@ -288,3 +288,8 @@ bindsym $mod+r mode "resize"
 
 include /etc/sway/config.d/*
 
+# Optional Post-Apollo user keyboard startup policy. CPU++ owns only the
+# separate ~/.config/sway/post-apollo-keyboard-locks.conf fragment.
+# Keep this source-controlled config and ~/.config/sway/config symlink intact.
+include ~/.config/sway/post-apollo-keyboard-locks.conf
+
